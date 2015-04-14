@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.socialparking.parking.parking.Release">
+
+    <fragment
+        android:id="@+id/fReleaseForm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        class="com.socialparking.parking.parking.ReleaseFormFragment"/>
+
+    <fragment
+        android:id="@+id/fReleaseMap"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.google.android.gms.maps.MapFragment"/>
+
+</LinearLayout>

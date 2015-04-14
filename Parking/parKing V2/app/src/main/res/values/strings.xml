@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">parKing</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_release1">Release1</string>
+    <string name="title_activity_search">Search</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_entry_screen">EntryScreen</string>
+
+
+    <string name="entry_hint_user_name">USERNAME</string>
+    <string name="main_search_button">SEARCH</string>
+    <string name="main_release_button">RELEASE</string>
+    <string name="release_frag_enter_location">Enter car location</string>
+    <string name="entry_hint_password">PASSWORD</string>
+    <string name="entry_hint_email">example@gmail.com</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="log_in_button">Log In</string>
+    <string name="search_frag_enter_location">Enter parking location</string>
+
+
+</resources>

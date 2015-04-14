@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/AppTheme.ActionBarStyle</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppTheme.ActionBarStyle" parent="android:Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:logo">@drawable/parking_logo</item>
+    </style>
+
+</resources>
